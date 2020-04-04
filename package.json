@@ -1,0 +1,9 @@
+{
+  "name": "operacions",
+  "version": "1.0.0",
+  "description": "Creació de noms per a operacions",
+  "main": "index.js",
+  "author": "tr1c4f0rt",
+  "license": "MIT",
+  "private": false
+}
